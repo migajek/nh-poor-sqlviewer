@@ -3,6 +3,7 @@ nh-poor-sqlviewer
 
 Very Poor's Man raw SQL Viewer / logger for NHibernate
 
+![screen](http://i.imgur.com/ht2IUwm.png)
 
 ### Features
 
