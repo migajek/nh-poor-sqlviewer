@@ -1,0 +1,11 @@
+C:\Documents and Settings\michal\My Documents\SharpDevelop Projects\UdpLogListener\UdpLogListener\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\michal\My Documents\SharpDevelop Projects\UdpLogListener\UdpLogListener\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\michal\My Documents\SharpDevelop Projects\UdpLogListener\UdpLogListener\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\michal\My Documents\SharpDevelop Projects\UdpLogListener\UdpLogListener\bin\Debug\UdpLogListener.exe.config
+C:\Documents and Settings\michal\My Documents\SharpDevelop Projects\UdpLogListener\UdpLogListener\bin\Debug\UdpLogListener.exe
+C:\Documents and Settings\michal\My Documents\SharpDevelop Projects\UdpLogListener\UdpLogListener\bin\Debug\UdpLogListener.pdb
+C:\Documents and Settings\michal\My Documents\SharpDevelop Projects\UdpLogListener\UdpLogListener\obj\Debug\UdpLogListener.exe
+C:\Documents and Settings\michal\My Documents\SharpDevelop Projects\UdpLogListener\UdpLogListener\obj\Debug\UdpLogListener.pdb
+C:\Documents and Settings\michal\My Documents\SharpDevelop Projects\UdpLogListener\UdpLogListener\bin\Debug\PoorMansTSqlFormatterLib35.dll
+C:\Documents and Settings\michal\My Documents\SharpDevelop Projects\UdpLogListener\UdpLogListener\obj\Debug\UdpLogListener.QueryParameter.resources
+C:\Documents and Settings\michal\My Documents\SharpDevelop Projects\UdpLogListener\UdpLogListener\bin\Debug\FastColoredTextBox.dll
